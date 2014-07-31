@@ -12,10 +12,8 @@ Our team has a shared passion for interaction design, information architecture, 
 
 What we do
 ==============
-Create a brand new application or product concept. 
--------------
+##### Create a brand new application or product concept.
 Perhaps you have an innovative idea that is unique and one-of-a-kind. Your idea has little or no existing legacy, but you want to design the best possible product quickly and affordably. 
 
-Improve an existing application or product concept. 
--------------
+##### Improve an existing application or product concept. 
 Perhaps you already have a mobile site that is losing customer traffic or needs a new, fresh look. Redesigning existing apps and sites to take them to the next level is an area in which we excel.
