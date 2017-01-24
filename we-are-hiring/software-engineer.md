@@ -1,3 +1,5 @@
+![alt tag](https://lh3.ggpht.com/-udUlHaXwk3E/V0zLbP0uR7I/AAAAAAAAADE/gmaw5hEitCQjluVrPdGD1kFQdiv5AVzhACJkC/s1536/photo)
+
 # Software Engineer
 
 We're looking for a highly skilled engineer to work on DW's platform service. Our engineers are responsible for the stability, scalability and performance of the platform.
@@ -18,7 +20,7 @@ We're looking for a highly skilled engineer to work on DW's platform service. Ou
 - CS Diploma / Degree with industry experience is required
 - Extensive experience building and owning large-scale, multi-threaded, geographically distributed backend systems
 - Intermediate knowledge developing and debugging in C/C++, Java, or Go
-- Knowledge of Python a plus
+- Knowledge of Firebase and Docker is a plus
 - Experience with operating system internals, filesystems, databases, network, compiler also a plus
 - Familiarity with Linux
 - Proficient spoken and written English
